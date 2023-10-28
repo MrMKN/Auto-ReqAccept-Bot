@@ -64,6 +64,7 @@ python3 bot.py
 
 <details>
 <summary><b>Bot Commands</b></summary>
+
 ```
 start - for stating the bot
 
@@ -71,6 +72,7 @@ users - total bot users count
 
 broadcast - broadcast a message to all users
 ```
+
 </details>
 
 
