@@ -18,12 +18,16 @@ This Is A Telegram For Automatically Accept Chat Join Request With Broadcast &am
 </details>
 
 
-### Deploy On Heroku
+<details>
+<summary><b>Deploy On Heroku</b></summary>
+
+Change template url to your repo url
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Auto-ReqAccept-Bot)             
+<details>
 
-
-### Deploy On VPS
+<details>
+<summary></b>Deploy On VPS</b></summary>
 
 1. Make Your Repo To Private
 2. Add All Variables In Repo
@@ -55,10 +59,11 @@ python3 bot.py
 
 7. press ctrl+b+d
 
+</details>
 
 
-
-## Bot Commands
+<details>
+<summary><b>Bot Commands</b></summary>
 ```
 start - for stating the bot
 
@@ -66,6 +71,6 @@ users - total bot users count
 
 broadcast - broadcast a message to all users
 ```
-
+</details>
 
 
