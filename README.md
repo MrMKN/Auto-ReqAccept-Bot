@@ -24,7 +24,7 @@ This Is A Telegram For Automatically Accept Chat Join Request With Broadcast &am
 Change template url to your repo url
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Auto-ReqAccept-Bot)             
-<details>
+</details>
 
 <details>
 <summary></b>Deploy On VPS</b></summary>
