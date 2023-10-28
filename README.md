@@ -15,23 +15,33 @@ This Is A Telegram For Automatically Accept Chat Join Request With Broadcast &am
 3. Make Repo To Public Once
 4. Clone You're Repo To VPS
 
-```git clone https://github.com/MrMKN/Auto-ReqAccept-Bot```
+```
+git clone https://github.com/MrMKN/Auto-ReqAccept-Bot
+```
 
 5. Make Your Repo To Private Again
 6. Type The Following Command In VPS
 
-```cd Auto-ReqAccept-Bot```
+```
+cd Auto-ReqAccept-Bot
+```
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
-```tmux```
+```
+tmux
+```
 
-```python3 bot.py```
+```
+python3 bot.py
+```
 
 7. press ctrl+b+d
 
 
-<details>
+
 <summary><b>Vars and Details :</b></summary>
 
 `API_ID` : Goto [my.telegram.org](https://my.telegram.org) To Obtain This.
@@ -44,7 +54,6 @@ This Is A Telegram For Automatically Accept Chat Join Request With Broadcast &am
 
 `DB_URL` : MongoDB URI For [MongoDB](https://mongodb.com)
 
-</details>
 
 
 ## Bot Commands
