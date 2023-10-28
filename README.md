@@ -14,13 +14,13 @@ This Is A Telegram For Automatically Accept Chat Join Request With Broadcast &am
 2. Add All Variables In Repo
 3. Make Repo To Public Once
 4. Clone You're Repo To VPS
-eg: `git clone https://github.com/MrMKN/Auto-ReqAccept-Bot`
+```git clone https://github.com/MrMKN/Auto-ReqAccept-Bot```
 5. Make Your Repo To Private Again
 6. Type The Following Command In VPS 
-`cd Auto-ReqAccept-Bot` Enter Your Repo Name
-`pip install -r requirements.txt`
-`tmux`
-`python3 bot.py`
+```cd Auto-ReqAccept-Bot```
+```pip install -r requirements.txt```
+```tmux```
+```python3 bot.py```
 7. press ctrl+b+d
 
 
@@ -41,10 +41,13 @@ eg: `git clone https://github.com/MrMKN/Auto-ReqAccept-Bot`
 
 
 ## Bot Commands
+```
+start - for stating the bot
 
-`start - for stating the bot
 users - total bot users count
-broadcast - broadcast a message to all users`
+
+broadcast - broadcast a message to all users
+```
 
 
 
